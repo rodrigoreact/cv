@@ -1,7 +1,7 @@
 
 # 📄 Curriculum Vitae 
 
-Este repositorio contiene mi **Curriculum Vitae (CV)** en formato web. A
+Este repositorio contiene mi **Curriculum Vitae (CV)** en formato web.
 
 ## 📌 Características  
 ✔️ CV en formato HTML/CSS para visualización en línea.  
